@@ -1,6 +1,7 @@
-## Headings
+# Readme
 
+**please read me before
 
-push 
-1.
-2.
+1.have fun
+2.take a deep breath
+3.enjoy

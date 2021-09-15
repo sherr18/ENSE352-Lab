@@ -1,0 +1,3 @@
+artist: Eason Chan
+album: ?
+song: my private christmas song
